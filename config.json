@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadereave",
+        "uuid": 11582430,
+        "checksum": "psvxh7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
